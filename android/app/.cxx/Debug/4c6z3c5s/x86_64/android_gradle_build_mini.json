@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/nextwo/dev/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/nextwo/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/nextwo/Desktop/ex-vissai-app/android/app/.cxx/Debug/4c6z3c5s/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/nextwo/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/nextwo/Desktop/ex-vissai-app/android/app/.cxx/Debug/4c6z3c5s/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

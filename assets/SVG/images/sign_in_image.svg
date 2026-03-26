@@ -1,0 +1,51 @@
+<svg fill="none" height="115" viewBox="0 0 108 115" width="108" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M95.4809 94.8079C93.2643 97.1299 91.164 98.6303 89.5054 99.8144C70.0172 113.731 46.96 109.677 42.0579 108.686C34.8191 107.224 20.8336 104.397 10.7195 92.5553C-4.57969 74.6468 -2.20034 46.4282 9.66928 27.8023C11.8394 24.3964 23.306 5.48504 46.6151 2.45336C60.7207 0.617378 77.163 4.3202 89.0714 14.2484C114.066 35.0922 112.287 77.2002 95.4809 94.8079Z"
+        fill="#D8E0F0" />
+    <circle cx="3.02029" cy="3.02029" fill="#011A51" r="3.02029"
+        transform="matrix(-1 0 0 1 21.0406 25)" />
+    <rect fill="#011A51" height="60" rx="4" transform="rotate(90 84 26)" width="70" x="84" y="26" />
+    <line stroke="#FBFAFF" stroke-linecap="round" stroke-width="2" x1="34" x2="74.2665" y1="45.0181"
+        y2="45.0181" />
+    <line stroke="#FBFAFF" stroke-linecap="round" stroke-width="2" x1="41.9999" x2="66.6946" y1="75.3862"
+        y2="75.3862" />
+    <line stroke="#FBFAFF" stroke-linecap="round" stroke-width="2" x1="28" x2="79.3892" y1="59.8145"
+        y2="59.8145" />
+    <g filter="url(#filter0_d_72_154)">
+        <circle cx="53.3114" cy="24.6884" fill="white" r="12.8837" />
+        <circle cx="53.3114" cy="20.394" fill="#FB847C" r="3.22092" />
+        <ellipse cx="53.3113" cy="27.9094" fill="#FB847C" rx="6.44184" ry="3.22092" />
+    </g>
+    <circle cx="29.7067" cy="91.7065" fill="url(#paint0_linear_72_154)" r="11.7067" stroke="#FB847C"
+        stroke-width="2" />
+    <rect fill="#A2BAF0" height="16.1722" opacity="0.5" rx="3" width="26.5686" x="77.2412"
+        y="69.3101" />
+    <rect fill="#FBFAFF" height="14.017" rx="2.5" stroke="white" width="33.6547" x="68.5"
+        y="67.4998" />
+    <line stroke="#011A51" stroke-linecap="round" x1="71.9655" x2="88.2929" y1="74.5859"
+        y2="74.5859" />
+    <path
+        d="M93.4135 73.3531L95.0717 74.936C95.1563 75.0167 95.2917 75.008 95.3653 74.9171L98.0341 71.6204"
+        stroke="#011A51" stroke-linecap="round" stroke-width="1.2" />
+    <circle cx="9" cy="9" fill="#FB847C" r="9" transform="matrix(1 0 0 -1 89 49)" />
+    <defs>
+        <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="27.7673" id="filter0_d_72_154" width="25.7674"
+            x="40.4277" y="11.8047">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" result="hardAlpha"
+                type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+            <feOffset dy="2" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0" />
+            <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_72_154" />
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow_72_154" mode="normal"
+                result="shape" />
+        </filter>
+        <linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear_72_154" x1="37.7928" x2="20.4655"
+            y1="90.5513" y2="90.5513">
+            <stop stop-color="#E0E5F2" />
+            <stop offset="0.464626" stop-color="white" />
+            <stop offset="1" stop-color="#E0E5F2" />
+        </linearGradient>
+    </defs>
+</svg>

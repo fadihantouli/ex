@@ -18,6 +18,8 @@ import 'view/splash_screen/splash_screen.dart';
 import '../../generated/l10n.dart';
 
 
+//test
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   ForceUpdateController forceUpdateController=Get.put(ForceUpdateController());

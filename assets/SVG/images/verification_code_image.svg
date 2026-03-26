@@ -1,0 +1,32 @@
+<svg fill="none" height="109" viewBox="0 0 135 109" width="135" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="1.4921" cy="1.4921" fill="white" r="1.4921"
+        transform="matrix(1 0 0 -1 131.781 71.2551)" />
+    <circle cx="54" cy="54.3164" fill="#6399F9" opacity="0.1" r="54" />
+    <circle cx="1.4921" cy="1.4921" fill="#76D4B5" r="1.4921"
+        transform="matrix(1 0 0 -1 24 63.7944)" />
+    <circle cx="3.73025" cy="3.73025" fill="#011A51" r="3.73025"
+        transform="matrix(1 0 0 -1 68 108.46)" />
+    <circle cx="3.73025" cy="3.73025" fill="#FB847C" r="3.73025"
+        transform="matrix(1 0 0 -1 15 18.4604)" />
+    <rect fill="#011A51" height="80.3485" rx="5" width="45.5308" x="31.0001" y="12.6653" />
+    <line stroke="white" stroke-linecap="round" stroke-width="2" x1="44.0524" x2="63.4786" y1="37.1089"
+        y2="37.1089" />
+    <line stroke="white" stroke-linecap="round" stroke-width="2" x1="44.0524" x2="63.4786" y1="57.196"
+        y2="57.196" />
+    <line stroke="white" stroke-linecap="round" stroke-width="2" x1="40.0349" x2="70.1743" y1="47.822"
+        y2="47.822" />
+    <path
+        d="M76.5308 89.353C76.5308 92.1145 74.2922 94.353 71.5308 94.353H36C33.2386 94.353 31 92.1145 31 89.353V82.3007H76.5308V89.353Z"
+        fill="#6399F9" />
+    <circle cx="2.67828" cy="2.67828" fill="white" r="2.67828"
+        transform="matrix(1 0 0 -1 51.0872 91.6746)" />
+    <circle cx="3" cy="3" fill="white" r="3" transform="matrix(1 0 0 -1 37.4131 25.4604)" />
+    <rect fill="#214876" height="15.2753" opacity="0.1" rx="3.56757" width="21.0944" x="21.637"
+        y="59.1821" />
+    <rect fill="white" height="14.5256" rx="2.97297" stroke="white" stroke-width="1.18919" width="21.5701"
+        x="18.5946" y="57.5946" />
+    <circle cx="28.9109" cy="65.0013" fill="#FB847C" r="4.36436" />
+    <path d="M29.2746 62.8191L28.1835 67.1835" stroke="white" stroke-linecap="round"
+        stroke-width="0.5" />
+    <circle cx="9" cy="9" fill="#FB847C" r="9" transform="matrix(1 0 0 -1 80 79)" />
+</svg>

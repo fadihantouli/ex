@@ -1,0 +1,2 @@
+/Users/nextwo/Desktop/ex-vissai-app/android/app/.cxx/RelWithDebInfo/2b33485l/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nextwo/Desktop/ex-vissai-app/android/app/.cxx/RelWithDebInfo/2b33485l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

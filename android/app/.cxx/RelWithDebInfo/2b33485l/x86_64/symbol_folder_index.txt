@@ -1,0 +1,1 @@
+/Users/nextwo/Desktop/ex-vissai-app/build/app/intermediates/cxx/RelWithDebInfo/2b33485l/obj/x86_64
